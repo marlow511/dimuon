@@ -17,13 +17,13 @@ https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookSetComputerNode#CreateWor
 To setup the script starting from your CMSSSW_X_X_X directory do
 
 <code>
-> cd python
+$ cd python
 
-> git clone https://github.com/marlow511/dimuon 
+$ git clone https://github.com/marlow511/dimuon 
 
-> dimuon
+$ dimuon
 
-> cmsenv 
+$ cmsenv 
 </code>
 
 ## Running the script
