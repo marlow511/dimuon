@@ -18,8 +18,11 @@ To setup the script starting from your CMSSSW_X_X_X directory do
 
 <code>
 > cd python
+
 > git clone https://github.com/marlow511/dimuon 
+
 > dimuon
+
 > cmsenv 
 </code>
 
