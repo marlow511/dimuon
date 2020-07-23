@@ -26,7 +26,7 @@ To setup the script starting from your CMSSSW_X_X_X directory do
 The script takes one input file, named inFile.root, which is assumed to
 be in nanoAOD format. 
 
-### PICScie
+### PICSciE 
 On the PICSciE system, a sample file can be
 found on the mass storage system at : 
 /tigress/marlow/tigress-hsm/dimuon/DoubleMu_2.root
